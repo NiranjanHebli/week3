@@ -1,0 +1,13 @@
+name,category,price,stock,rating,num_reviews
+Product_0,Books,18777.2,999,4.1,288
+Product_2,Electronics,19845.01,91,4.6,772
+Product_3,Books,12387.88,366,3.4,489
+Product_4,Books,12271.9,443,4.7,230
+Product_7,Electronics,10543.02,263,1.2,134
+Product_10,Books,19477.73,205,2.1,779
+Product_13,Books,12405.88,49,2.1,47
+Product_15,Electronics,19666.29,387,1.6,406
+Product_17,Home,17212.81,389,1.3,727
+Product_18,Home,13638.12,53,4.9,804
+Product_21,Electronics,18849.81,309,1.0,871
+Product_22,Clothing,11309.44,476,4.3,725
