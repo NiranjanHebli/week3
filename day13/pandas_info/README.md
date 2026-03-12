@@ -1,6 +1,6 @@
 # Day - 13 - AM - Pandas Fundamentals 
 
-## Part A -  E - Commerce Product Analyzer:-
+## Part A -  E - Commerce Product Analyzer
 
 In this section, we will explore the fundamentals of Pandas, a powerful Python library for data manipulation and analysis.
 
@@ -29,4 +29,11 @@ In this section, we will explore Pandas, powerful data manipulation capabilities
 ### File Link :- 
 
 [`comparison_report.ipynb`](./comparison_reports/comparison_reports.ipynb)
+## Part C - Interview Answers
 
+### Solutions in the file:- [interview_answers.md](./interview_answers.md)
+
+
+## Part D - AI Augmented Task
+
+### Solutions in the file:- [ai_augmented.md](./ai_augmented.md)
