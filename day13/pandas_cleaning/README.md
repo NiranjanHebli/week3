@@ -29,3 +29,11 @@ In this section, we will explore how to use Pandas to generate a data profile re
 
 [`data_profiling.ipynb`](./data_profiling/data_profiling.ipynb)
 
+## Part C - Interview Answers
+
+### Solutions in the file:- [interview_answers.md](./interview_answers.md)
+
+
+## Part D - AI Augmented Task
+
+### Solutions in the file:- [ai_augmented.md](./ai_augmented.md)
