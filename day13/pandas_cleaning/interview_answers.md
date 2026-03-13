@@ -19,6 +19,8 @@ For a skewed income distribution, I would prefer median imputation because media
 
 ### Output:- 
 
+<img width="1018" height="114" alt="Screenshot 2026-03-13 at 11 35 57 AM" src="https://github.com/user-attachments/assets/e915ec7e-42fc-416b-9d09-8bcb9eeffe43" />
+
 
 # Q3. Debug 
 
