@@ -17,6 +17,9 @@ For a skewed income distribution, I would prefer median imputation because media
 ### File :- [standardize_columns.py](./standardize_columns.py)
 
 
+### Output:- 
+
+
 # Q3. Debug 
 
 ### Bug 1 – Hidden NaN before numeric conversion

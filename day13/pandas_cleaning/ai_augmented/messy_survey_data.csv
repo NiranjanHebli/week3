@@ -1,0 +1,71 @@
+respondent_id,name,age,gender,city,satisfaction_score,recommend,comments,survey_date
+1, Uma ,-5,Male,denver,1,yes,Good service,01/10/2024
+2, Nina ,69,Male,chicago,1,Yes,Very happy,
+3, Rita ,,Female,Seattle,1,Yes,Average,
+4,UMA,-5,other, Los Angeles,,yes,Average,15/03/2024
+5,Hannah,200,male,seattle,,no ,Not satisfied,01/10/2024
+6,Mia,,female , los angeles,,No,Great experience,15/03/2024
+7,Victor,200,Other,Chicago,,No,Bad support,01/10/2024
+8, Tina ,,Other,miami,N/A,no,,15/03/2024
+9,YARA,unknown,other,Austin,5,Yes,Very happy,15/03/2024
+10, Hannah ,,Male ,new york,N/A,no,Great experience,01/10/2024
+11,Sam,unknown,male,Seattle,,Yes,,15/03/2024
+12, Hannah ,unknown,male,Los Angeles,5,yes,Good service,2024-07-01
+13,Frank,43,Male,Phoenix,3,No,Great experience,15/03/2024
+14,SAM,38,Male,denver,1,yes ,Average,01/10/2024
+15,HANNAH,unknown,Other,phoenix,2,No,Not satisfied,15/03/2024
+16,Alice,24,other,Seattle,3,no,Not satisfied,01/10/2024
+17,Alice,60,male,denver,2,no,Not satisfied,15/03/2024
+18,Charlie,20,Female,phoenix,,No ,Excellent,01/10/2024
+19, RITA ,200,Male,Houston,5,No,Average,2024-07-01
+20, Nina ,unknown,Other,phoenix,4,Yes,Great experience,2024-07-01
+21, HANNAH ,200,Male,Denver,5,No ,Not satisfied,22-Nov-2024
+22, Bob ,200,Female, Boston,1,no,,22-Nov-2024
+23,Tina,200,Other,Boston,2,No,Excellent,01/10/2024
+24,ALICE,,Other,Miami,N/A,Yes,,2024-07-01
+25,Victor,27,male,Los Angeles,5,Yes,Could improve,15/03/2024
+26,Yara,unknown,male,Denver,N/A,Yes,Very happy,01/10/2024
+27,Xavier,unknown,Male,Phoenix,3,No,Bad support,22-Nov-2024
+28,KAREN,-5,Female,Los Angeles,4,no,Could improve,15/03/2024
+29,Yara,200,Female,Boston,N/A,Yes,,
+30, Xavier ,,other, Austin,4,Yes ,Not satisfied,22-Nov-2024
+31,Karen,unknown,Female,denver,2,Yes,Good service,15/03/2024
+32, TINA ,60,Other, Phoenix,5,Yes ,,22-Nov-2024
+33,Sam,-5,Male,houston,N/A,Yes,Good service,22-Nov-2024
+34,Charlie,unknown,Male,Miami,,No,Great experience,01/10/2024
+35,IAN,200,female,Austin,4,no,Not satisfied,22-Nov-2024
+36, Rita ,-5,Other,Houston,4,No ,Average,01/10/2024
+37,Leo,,Female, phoenix,2,no,Excellent,22-Nov-2024
+38,Xavier,200,Male, seattle,5,yes,Not satisfied,
+39,David,unknown,Female,Phoenix,N/A,Yes ,Good service,22-Nov-2024
+40,CHARLIE,unknown,Other,Denver,3,No,Bad support,2024-07-01
+41,IAN,,male, Austin,3,No,Average,01/10/2024
+42,VICTOR,,Male, chicago,3,No,Not satisfied,01/10/2024
+43,RITA,unknown,Other,los angeles,N/A,Yes,Not satisfied,2024-07-01
+44,Paul,-5,Other,Los Angeles,3,Yes,Great experience,01/10/2024
+45,Bob,38,Female,New York,4,yes,Great experience,2024-07-01
+46,Ian,unknown,male,Houston,1,no,Bad support,2024-07-01
+47,Paul,200,Female, Houston,2,Yes,Could improve,22-Nov-2024
+48, Alice ,,Other ,Denver,N/A,No,Average,
+49,Hannah,unknown,Other, Chicago,5,No,,15/03/2024
+50, Xavier ,27,Female,Austin,N/A,No,Could improve,
+51, RITA ,200,Male,Los Angeles,1,no,,22-Nov-2024
+52,LEO,unknown,Other ,chicago,5,Yes,Average,22-Nov-2024
+53, Victor ,,male,austin,,No,Could improve,
+54,Sam,200,Male,phoenix,N/A,Yes,Not satisfied,22-Nov-2024
+55,Hannah,-5,other,New York,5,No ,Not satisfied,2024-07-01
+56,Eva,,Other,Phoenix,N/A,No,,2024-07-01
+57,Victor,,female,Phoenix,,No,,15/03/2024
+58,Tina,-5,other, Phoenix,1,Yes,Bad support,
+59,Owen,,Female,Boston,5,No,Very happy,2024-07-01
+60, Leo ,200,Male ,Los Angeles,1,Yes,,2024-07-01
+61,ZANE,,Male, Houston,5,yes,Excellent,15/03/2024
+62,VICTOR,-5,Other ,new york,1,Yes,Bad support,01/10/2024
+63,Bob,,Female,New York,4,Yes,Bad support,2024-07-01
+64, Charlie ,,Other,denver,4,Yes ,Average,
+65,Karen,64,Female,Seattle,4,yes ,,2024-07-01
+54,Sam,200,Male,phoenix,N/A,Yes,Not satisfied,22-Nov-2024
+61,ZANE,,Male, Houston,5,yes,Excellent,15/03/2024
+1, Uma ,-5,Male,denver,1,yes,Good service,01/10/2024
+46,Ian,unknown,male,Houston,1,no,Bad support,2024-07-01
+6,Mia,,female , los angeles,,No,Great experience,15/03/2024
