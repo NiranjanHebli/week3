@@ -1,0 +1,66 @@
+respondent_id,name,age,gender,city,satisfaction_score,recommend,comments
+1, Leo ,200,other,Boston,1,No ,Could improve
+2,Tina,24,Male,denver,2,No,Not satisfied
+3,DAVID,,Male,Houston,2,no,Very happy
+4,JACK,-5,Other,Phoenix,4,no,Good service
+5,Yara,unknown,Other,Phoenix,2,No,Not satisfied
+6,UMA,19,other,Denver,,No,
+7, Eva ,200,Other ,los angeles,5,No,Bad support
+8, ALICE ,28,Male,Houston,,Yes,Very happy
+9, Karen ,-5,Other,Austin,3,Yes ,Average
+10,Eva,200,Other,phoenix,NaN,No,Great experience
+11,Uma,,Female, denver,NaN,No ,
+12,ZANE,,Male,Los Angeles,2,No,Very happy
+13, OWEN ,,Male,New York,,yes,Excellent
+14,IAN,,Female, chicago,5,Yes,Very happy
+15,Owen,26,other ,denver,2,Yes,Bad support
+16,Bob,,female,Boston,,No,Average
+17, Uma ,42,Female,Los Angeles,3,no,Could improve
+18, ZANE ,200,Male,Boston,3,No,Very happy
+19, HANNAH ,200,Other,Los Angeles,4,no,Good service
+20, Alice ,33,Male,houston,4,No ,Not satisfied
+21,Tina,51,Female, Phoenix,NaN,Yes,Great experience
+22, Karen ,,male ,miami,NaN,Yes,
+23, BOB ,200,Other,New York,5,yes,Excellent
+24,Quinn,,Other, Denver,5,No,
+25, Quinn ,unknown,other,Houston,1,Yes,Good service
+26,ZANE,-5,female, denver,3,no,Average
+27,Paul,,Other, Austin,4,No,Very happy
+28,LEO,-5,Other,Seattle,,Yes,Very happy
+29, Wendy ,-5,male ,Chicago,1,No ,
+30,WENDY,200,other,Austin,4,No,Excellent
+31, Quinn ,unknown,Female,boston,3,No,
+32,Quinn,200,Female,Austin,,No,Could improve
+33,Bob,-5,Male, boston,1,Yes,Good service
+34, Ian ,70,Female ,Houston,3,no ,Average
+35,UMA,,Other,Austin,NaN,No,Could improve
+36,JACK,41,Female,Austin,4,No,Bad support
+37,Tina,unknown,Female, Chicago,,Yes ,
+38, Yara ,,Male ,Seattle,,No,
+39, Mia ,unknown,female,New York,1,Yes,Average
+40, SAM ,unknown,Other ,New York,,yes ,Bad support
+41,FRANK,53,Male, austin,NaN,No,Great experience
+42,LEO,-5,Other ,new york,1,Yes,Good service
+43,Owen,unknown,Female, Denver,5,No,Great experience
+44, NINA ,67,other, Denver,1,No,Not satisfied
+45, Mia ,,male,Los Angeles,,No,Excellent
+46,Owen,200,other,Seattle,,no,Good service
+47, David ,50,male ,los angeles,NaN,yes ,
+48, Hannah ,66,Female ,Houston,4,yes,Average
+49, Jack ,,Other,Seattle,4,Yes,Average
+50, David ,-5,Female ,Los Angeles,5,no,Not satisfied
+51, Bob ,55,Other,houston,4,No,Excellent
+52,Ian,,Other,miami,4,no ,Average
+53, Ian ,200,Other,Austin,2,No,Good service
+54, Tina ,200,Male,Miami,4,no,Not satisfied
+55,David,61,female ,Seattle,1,yes,Not satisfied
+56,NINA,unknown,Female,Los Angeles,1,yes,
+57,Tina,unknown,Other, Chicago,2,Yes ,Not satisfied
+58, Nina ,-5,Female,Denver,1,No,Could improve
+59, OWEN ,,Male,Miami,4,No,Very happy
+60,NINA,-5,male,austin,3,Yes,Excellent
+22, Karen ,,male ,miami,NaN,Yes,
+9, Karen ,-5,Other,Austin,3,Yes ,Average
+8, ALICE ,28,Male,Houston,,Yes,Very happy
+47, David ,50,male ,los angeles,NaN,yes ,
+12,ZANE,,Male,Los Angeles,2,No,Very happy

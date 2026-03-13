@@ -1,0 +1,61 @@
+respondent_id,name,age,gender,city,satisfaction_score,recommend,comments
+1,leo,50.0,other,boston,1.0,no,could improve
+2,tina,24.0,male,denver,2.0,no,not satisfied
+3,david,50.0,male,houston,2.0,no,very happy
+4,jack,50.0,other,phoenix,4.0,no,good service
+5,yara,50.0,other,phoenix,2.0,no,not satisfied
+6,uma,19.0,other,denver,2.909090909090909,no,nan
+7,eva,50.0,other,los angeles,5.0,no,bad support
+8,alice,28.0,male,houston,2.909090909090909,yes,very happy
+9,karen,50.0,other,austin,3.0,yes,average
+10,eva,50.0,other,phoenix,2.909090909090909,no,great experience
+11,uma,50.0,female,denver,2.909090909090909,no,none
+12,zane,50.0,male,los angeles,2.0,no,very happy
+13,owen,50.0,male,new york,2.909090909090909,yes,excellent
+14,ian,50.0,female,chicago,5.0,yes,very happy
+15,owen,26.0,other,denver,2.0,yes,bad support
+16,bob,50.0,female,boston,2.909090909090909,no,average
+17,uma,42.0,female,los angeles,3.0,no,could improve
+18,zane,50.0,male,boston,3.0,no,very happy
+19,hannah,50.0,other,los angeles,4.0,no,good service
+20,alice,33.0,male,houston,4.0,no,not satisfied
+21,tina,51.0,female,phoenix,2.909090909090909,yes,great experience
+22,karen,50.0,male,miami,2.909090909090909,yes,nan
+23,bob,50.0,other,new york,5.0,yes,excellent
+24,quinn,50.0,other,denver,5.0,no,nan
+25,quinn,50.0,other,houston,1.0,yes,good service
+26,zane,50.0,female,denver,3.0,no,average
+27,paul,50.0,other,austin,4.0,no,very happy
+28,leo,50.0,other,seattle,2.909090909090909,yes,very happy
+29,wendy,50.0,male,chicago,1.0,no,nan
+30,wendy,50.0,other,austin,4.0,no,excellent
+31,quinn,50.0,female,boston,3.0,no,nan
+32,quinn,50.0,female,austin,2.909090909090909,no,could improve
+33,bob,50.0,male,boston,1.0,yes,good service
+34,ian,70.0,female,houston,3.0,no,average
+35,uma,50.0,other,austin,2.909090909090909,no,could improve
+36,jack,41.0,female,austin,4.0,no,bad support
+37,tina,50.0,female,chicago,2.909090909090909,yes,none
+38,yara,50.0,male,seattle,2.909090909090909,no,nan
+39,mia,50.0,female,new york,1.0,yes,average
+40,sam,50.0,other,new york,2.909090909090909,yes,bad support
+41,frank,53.0,male,austin,2.909090909090909,no,great experience
+42,leo,50.0,other,new york,1.0,yes,good service
+43,owen,50.0,female,denver,5.0,no,great experience
+44,nina,67.0,other,denver,1.0,no,not satisfied
+45,mia,50.0,male,los angeles,2.909090909090909,no,excellent
+46,owen,50.0,other,seattle,2.909090909090909,no,good service
+47,david,50.0,male,los angeles,2.909090909090909,yes,nan
+48,hannah,66.0,female,houston,4.0,yes,average
+49,jack,50.0,other,seattle,4.0,yes,average
+50,david,50.0,female,los angeles,5.0,no,not satisfied
+51,bob,55.0,other,houston,4.0,no,excellent
+52,ian,50.0,other,miami,4.0,no,average
+53,ian,50.0,other,austin,2.0,no,good service
+54,tina,50.0,male,miami,4.0,no,not satisfied
+55,david,61.0,female,seattle,1.0,yes,not satisfied
+56,nina,50.0,female,los angeles,1.0,yes,nan
+57,tina,50.0,other,chicago,2.0,yes,not satisfied
+58,nina,50.0,female,denver,1.0,no,could improve
+59,owen,50.0,male,miami,4.0,no,very happy
+60,nina,50.0,male,austin,3.0,yes,excellent
