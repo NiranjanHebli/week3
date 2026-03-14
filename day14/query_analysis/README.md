@@ -1,4 +1,4 @@
-# Day - 14 - AM - Pandas Fundamentals
+# Day - 14 - AM - Pandas & SQL Fundamentals 
 
 ## Part A - Query Analysis
 
@@ -150,3 +150,7 @@ In this section, we will explore how to use Pandas to demonstrate querying a dat
 ## Part C - Interview Answers
 
 Solutions in File:- [interview_answers.md](./interview_answers.md)
+
+## Part D - AI - Augmented
+
+Solutions in File:- [ai_augmented.md](ai_augmented.md)
