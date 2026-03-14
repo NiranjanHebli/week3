@@ -1,0 +1,24 @@
+employeeNumber,lastName,firstName,officeCode,reportsTo,jobTitle,salary
+1002,Murphy,Diane,1,,President,150000
+1056,Patterson,Mary,1,1002.0,VP Sales,140000
+1076,Firrelli,Jeff,1,1002.0,VP Marketing,130000
+1088,Patterson,William,6,1056.0,Sales Manager (APAC),120000
+1102,Bondur,Gerard,4,1056.0,Sale Manager (EMEA),115000
+1143,Bow,Anthony,1,1056.0,Sales Manager (NA),118000
+1165,Jennings,Leslie,1,1143.0,Sales Rep,90000
+1166,Thompson,Leslie,1,1143.0,Sales Rep,85000
+1188,Firrelli,Julie,2,1143.0,Sales Rep,88000
+1216,Patterson,Steve,2,1143.0,Sales Rep,87000
+1286,Tseng,Foon Yue,3,1143.0,Sales Rep,92000
+1323,Vanauf,George,3,1143.0,Sales Rep,91000
+1337,Bondur,Loui,4,1102.0,Sales Rep,86000
+1370,Hernandez,Gerard,4,1102.0,Sales Rep,89000
+1401,Castillo,Pamela,4,1102.0,Sales Rep,88000
+1501,Bott,Larry,7,1102.0,Sales Rep,90000
+1504,Jones,Barry,7,1102.0,Sales Rep,91000
+1611,Fixter,Andy,6,1088.0,Sales Rep,87000
+1612,Marsh,Peter,6,1088.0,Sales Rep,88000
+1619,King,Tom,6,1088.0,Sales Rep,89000
+1621,Nishi,Mami,5,1056.0,Sales Rep,95000
+1625,Kato,Yoshimi,5,1621.0,Sales Rep,92000
+1702,Gerard,Martin,4,1102.0,Sales Rep,85000

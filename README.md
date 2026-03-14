@@ -14,3 +14,5 @@ This repo contains assignments given in week-3. The assignments are written in P
 [Day 13 - AM - Assignment](day13/pandas_info/README.md)
 
 [Day 13 - PM - Assignment](day13/pandas_cleaning/README.md)
+
+[Day 14 - AM - Assignment](day14/query_analysis/README.md)
