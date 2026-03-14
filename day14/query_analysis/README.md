@@ -146,3 +146,7 @@ In this section, we will explore how to use Pandas to demonstrate querying a dat
 
 ![alt text](./sql_pandas_analysis/assets/partB_query2_output.png)
 
+
+## Part C - Interview Answers
+
+Solutions in File:- [interview_answers.md](./interview_answers.md)
