@@ -84,4 +84,4 @@ Solutions in File:- [interview_answers.md](./interview_answers.md)
 
 ## Part D - AI - Augmented
 
-Solutions in File:- [ai_augmented.md](ai_augmented.md)
+Solutions in File:- [ai_augmented.md](./ai_augmened.md)
