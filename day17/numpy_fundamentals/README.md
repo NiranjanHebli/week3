@@ -1,4 +1,4 @@
-# Day 17 - AM - NumPy Fundations
+# Day 17 - AM - NumPy Fundamentals
 
 ## Part A - Concept Application
 
@@ -36,3 +36,12 @@ This task compares the legacy random API with the modern random generator interf
 ## File:- 
 
 [`random_module.ipynb`](./random_module.ipynb) - Contains code to compare the legacy random API with the modern random generator interface and demonstrates how to create a synthetic regression dataset using NumPy.
+
+
+## Part C - Interview Ready
+
+### Solutions in :- [interview_answers.md](./interview_answers.md)
+
+## Part D - AI Augmented
+
+### Solutions in :- [ai_augmented.md](./ai_augmented.md)
