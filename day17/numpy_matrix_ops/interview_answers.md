@@ -15,7 +15,7 @@ This computes the same expression for every element simultaneously.
 ## Why vectorization is faster
 
 - No Python-level loops
-- No repeated `append()` memory reallocations
+- No repeated append() memory reallocations
 - No manual reshape needed
 - Uses contiguous low-level numeric operations internally
 
@@ -48,7 +48,7 @@ def k_nearest(data: np.ndarray, point: np.ndarray, k: int) -> np.ndarray:
 
 ### 1. Wrong axis for column means
 
-axis=1 calculates **row means**, but column normalization needs **column means**, so it should use axis=0.
+axis=1 calculates row means, but column normalization needs column means, so it should use axis=0.
 
 ### 2. Wrong axis for column standard deviations
 
@@ -75,5 +75,5 @@ normalized = (data - means) / stds
 
 Each column now has approximately:
 
-- mean ≈ 0
-- standard deviation ≈ 1
+- mean = 0
+- standard deviation = 1
