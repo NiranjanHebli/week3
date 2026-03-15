@@ -18,3 +18,5 @@ This repo contains assignments given in week-3. The assignments are written in P
 [Day 14 - AM - Assignment](day14/query_analysis/README.md)
 
 [Day 14 - PM - Assignment](day14/sql_advanced/README.md)
+
+[Day 15 - AM - Assignment](day15/probability_distribution/README.md)

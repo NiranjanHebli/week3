@@ -14,3 +14,8 @@ In this section we are going to analyze the probability distribution based on th
 
 ### Solutions in :- [interview_answers.md](./interview_answers.md)
 
+## Part D - AI Augmented
+
+### Solutions in :- [ai_augmented.md](./ai_augmented.md)
+
+
