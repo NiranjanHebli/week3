@@ -21,6 +21,20 @@ This pipeline simulates an IoT sensor analytics dashboard, using NumPy to detect
 
 ## Part B - Stretch Problem
 
+This task covers key NumPy linear algebra tools, including determinant, inverse, eigenvalue decomposition, linear system solving, and Singular Value Decomposition (SVD).
+
+## Key Learnings
+
+- Learned how determinant indicates whether a matrix is invertible.
+
+- Used matrix inverse and np.allclose() to verify identity reconstruction.
+
+- Solved simultaneous equations using matrix algebra instead of manual substitution.
+
+## File:-
+
+## [matrix_ops.ipynb](./matrix_ops.ipynb) 
+
 
 ## Part C - Interview Ready
 
