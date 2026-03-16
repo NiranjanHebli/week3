@@ -21,6 +21,8 @@ This repo contains assignments given in week-3. The assignments are written in P
 
 [Day 15 - AM - Assignment](day15/probability_distribution/README.md)
 
+[Day 15 - PM - Assignment](day15/database_relations/README.md)
+
 [Day 17 - AM - Assignment](day17/numpy_fundamentals/README.md)
 
 [Day 17 - PM - Assignment](day17/numpy_matrix_ops/README.md)
