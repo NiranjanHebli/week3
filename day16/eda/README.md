@@ -25,7 +25,7 @@ This EDA report examines a dataset containing 1200 records and 10 mixed-type var
 
 Plotly Express simplifies creating interactive visualizations directly from tabular data, adding interactivity such as hover labels, zooming, panning, legend toggling, and browser-based HTML export.
 
-## Key Learning;-
+## Key Learning
 
 - Plotly Express creates interactive charts with very few lines of code.
 
